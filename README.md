@@ -55,4 +55,4 @@ Then configure the rules you want to use under the rules section.
 
 ## Supported Rules
 
-### **[match-regex](docs/rules/match-regex)**
+### **[match-regex](../blob/docs/rules/match-regex.md)**
