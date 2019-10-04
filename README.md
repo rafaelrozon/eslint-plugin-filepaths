@@ -55,4 +55,4 @@ Then configure the rules you want to use under the rules section.
 
 ## Supported Rules
 
-### **[match-regex](../blob/docs/rules/match-regex.md)**
+### **[match-regex](https://github.com/rafaelrozon/eslint-plugin-filepaths/blob/master/docs/rules/match-regex.md)**
